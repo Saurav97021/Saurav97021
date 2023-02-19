@@ -1,4 +1,4 @@
-[![MasterHead](https://hashnode.com/@Saurav108)](https://twitter.com/Saurav_108_)(https://www.linkedin.com/in/saurav-tripathi-60554922b/)
+[![MasterHead](https://miro.medium.com/max/1400/1*KXoM1nT2Clw3CR8uqADjww.gif)](https://www.linkedin.com/in/saurav-tripathi-60554922b/)
 
 <h1 align="center">Hi 👋, I'm Saurav Tripathi</h1>
 <h3 align="center">Exploring and learning devops and web dev</h3>
